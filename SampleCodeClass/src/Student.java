@@ -3,10 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-/*Hehe XD
 */
-/*
-HIIII
 */
 /**
 
@@ -42,8 +39,8 @@ public class Student {
    
     void testAll()
  	{
-     	System.out.println("Hello");
-     	return;
+     		System.out.println("Hello");
+     		return;
 	}
 	
 	void helloWorld() {
@@ -61,4 +58,6 @@ public class Student {
 void myTest()
 }
 
-void ZSGayTest() 
+bool ZSGayTest() {
+	return true;	
+}
