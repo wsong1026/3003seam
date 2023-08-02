@@ -47,7 +47,7 @@ public class Student {
      	System.out.println("Hello World");
 	}
 	void myTest(){
-
+	System.out.println("Testing");
 }
 
     void abc()
