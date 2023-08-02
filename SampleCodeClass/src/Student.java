@@ -3,13 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-/*Hehe XD
 */
 /*
 HIIII
-*/
-/**
- *
+
  * @author Testing */
 public class Student {
     String name;
@@ -56,4 +53,16 @@ public class Student {
     }
 
 void myTest()
+}
+
+void algorithms(){
+
+	int die = 0;
+
+	if (die!= 0){
+	System.out.println("You are alive but will died soon");
+     	return;
+	}else{System.out.println("How can you still in lab");
+     	return;}
+
 }
