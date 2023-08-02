@@ -3,10 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+<<<<<<< Updated upstream
 */
 <<<<<<< HEAD
 */
 /**
+=======
+>>>>>>> Stashed changes
 
 /* CHUN KIT WITH HER BIAO MEI <>
  * N0nEscape3had0w
