@@ -55,5 +55,7 @@ public class Student {
         
     }
 
-void myTest()
+void myTest(){
+System.out.println("Hello Zi Sheng");
+}
 }
