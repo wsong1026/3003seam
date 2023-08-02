@@ -36,7 +36,7 @@ public class Student {
     
     void testDisplay()
     {
-        System.out.println("Testing...");
+        System.out.println("Waihong n yongern");
 
     }
    
@@ -54,8 +54,7 @@ public class Student {
 }
 
     void abc()
-    {
-        
+    {       
     }
 
 <<<<<<< HEAD
