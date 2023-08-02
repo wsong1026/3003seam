@@ -68,4 +68,6 @@ void myTest()
 >>>>>>> c9724b9a0e960d0a3156957d19776d93a7272c3e
 }
 
-void ZSGayTest() 
+void ZSGayTest() {
+	System.out.println("Hello Zi Sheng Gay");
+}
