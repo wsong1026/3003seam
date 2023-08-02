@@ -4,11 +4,21 @@
  * and open the template in the editor.
  */
 */
+<<<<<<< HEAD
 */
 /**
 
 /* CHUN KIT WITH HER BIAO MEI <>
  * N0nEscape3had0w
+=======
+/*
+CK HA msap lou
+HIIII
+*/
+/**
+
+/* CHUN KIT WITH HER BIAO MEI <3 <3 <>
+>>>>>>> 64d3e159a305d9c2fbefb2858a7eaecda69479c6
  *
  * @author Testing */
 public class Student {
@@ -33,7 +43,7 @@ public class Student {
     
     void testDisplay()
     {
-        System.out.println("Testing...");
+        System.out.println("Waihong n yongern");
 
     }
    
@@ -47,17 +57,29 @@ public class Student {
      	System.out.println("Hello World");
 	}
 	void myTest(){
-
+	System.out.println("Testing");
 }
 
     void abc()
-    {
-        
+    {       
     }
 
+<<<<<<< HEAD
+void myTest(){
+System.out.println("Hello Zi Sheng");
+}
+=======
 void myTest()
+{
+>>>>>>> c9724b9a0e960d0a3156957d19776d93a7272c3e
 }
 
+<<<<<<< HEAD
 bool ZSGayTest() {
 	return true;	
 }
+=======
+void ZSGayTest() {
+	System.out.println("Hello Zi Sheng Gay");
+}
+>>>>>>> 64d3e159a305d9c2fbefb2858a7eaecda69479c6
