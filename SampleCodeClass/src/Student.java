@@ -6,12 +6,12 @@
 /*Hehe XD
 */
 /*
-CK HA msap lou
+ck lengzai
 HIIII
 */
 /**
 
-/* CHUN KIT WITH HER BIAO MEI <>
+/* CHUN KIT LENGZAIIII <>
  *
  * @author Testing */
 public class Student {
