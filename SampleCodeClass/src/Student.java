@@ -59,5 +59,3 @@ public class Student {
 
 void myTest()
 }
-
-void ZSGayTest() 
