@@ -6,9 +6,12 @@
 /*Hehe XD
 */
 /*
+CK HA msap lou
 HIIII
 */
 /**
+
+/* CHUN KIT WITH HER BIAO MEI <>
  *
  * @author Testing */
 public class Student {
@@ -47,7 +50,7 @@ public class Student {
      	System.out.println("Hello World");
 	}
 	void myTest(){
-
+	System.out.println("Testing");
 }
 
     void abc()
@@ -55,7 +58,14 @@ public class Student {
         
     }
 
+<<<<<<< HEAD
 void myTest(){
 System.out.println("Hello Zi Sheng");
 }
+=======
+void myTest()
+{
+>>>>>>> c9724b9a0e960d0a3156957d19776d93a7272c3e
 }
+
+void ZSGayTest() 
