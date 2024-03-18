@@ -34,13 +34,7 @@ public class Result {
         System.out.println("Testing");
     }
 
-<<<<<<< HEAD
     int countAll() { return 0; }
-=======
-    void myTest(){
-        
-    }
->>>>>>> parent of 21d137c (Update Result.java)
 
 <<<<<<< HEAD
     void LawBing(){
