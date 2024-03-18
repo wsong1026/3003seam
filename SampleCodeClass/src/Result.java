@@ -8,7 +8,7 @@ public class Result {
     int FM;
     int HCI;
 
-void myTest2()
+void myTest()
 
     double getAverageMark()
     {
