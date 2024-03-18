@@ -1,14 +1,25 @@
 public class Result {
     String name;
-    
+
     int RE;
     int SDA;
     int SQAT;
     int SEAM;
     int FM;
     int HCI;
+
+
+=======
+void mkDASHABI()
+
+
     double getAverageMark()
     {
+	RE = 1;
+	SDA = 1;
+	SQAT = 1;
+	SEAM = 1;
+	FM = 1
         return (RE+SDA+SQAT+SEAM+FM)/4;
     }
 
@@ -34,18 +45,48 @@ public class Result {
         System.out.println("Testing");
     }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
     void kxiangTest();
 =======
     void myTest(){
         System.out.println("Testing");
     }
->>>>>>> f7a8dc4f06686fa4509ad0aa720b238736273893
+
 =======
     int countAll() { return 0; }
->>>>>>> 67e82b7113802a8bea28e19b14e1b04e5e9fa11d
+
  void iloveu(){
     
  }
+=======
+
+    void myTest(){
+        System.out.println("Testing");
+    }
+
+    void scg2(){
+        System.out.println("Testing");
+    }
+
+    int countAll2() { return 0; }
+=======
+
+    void toiletFunction(){
+        System.out.println("Poop");
+    }
+=======
+    void Jiahao()
+
+=======
+
+
+    int countAll() { return 0; }
+    void myTest(){
+        System.out.println("Don't Test")
+    }
+
+    void makingCake(){
+        System.out.println("^^^^^^6^^^^^^")
+    }
+
 }
