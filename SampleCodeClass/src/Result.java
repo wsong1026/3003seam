@@ -36,4 +36,9 @@ public class Result {
 
     int countAll() { return 0; }
 
+
+    void LawBing(){
+        System.out.println("See u guys in Starlight Fantasy this Saturday!!!");
+    }
+
 }
