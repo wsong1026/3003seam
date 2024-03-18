@@ -37,4 +37,6 @@ void mkDASHABI()
         System.out.println("Testing");
     }
 
+    int countAll() { return 0; }
+
 }
