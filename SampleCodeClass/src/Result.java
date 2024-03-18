@@ -46,6 +46,20 @@ void mkDASHABI()
     }
 
 
+    void kxiangTest();
+=======
+    void myTest(){
+        System.out.println("Testing");
+    }
+
+=======
+    int countAll() { return 0; }
+
+ void iloveu(){
+    
+ }
+=======
+
     void myTest(){
         System.out.println("Testing");
     }
