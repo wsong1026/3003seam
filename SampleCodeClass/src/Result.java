@@ -38,6 +38,11 @@ public class Result {
     void toiletFunction(){
         System.out.println("Poop");
     }
+=======
+    void Jiahao()
+
+=======
+
 
     int countAll() { return 0; }
     void myTest(){
