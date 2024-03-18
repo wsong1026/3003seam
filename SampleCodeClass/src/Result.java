@@ -34,7 +34,13 @@ public class Result {
         System.out.println("Testing");
     }
 
+<<<<<<< HEAD
     int countAll() { return 0; }
+=======
+    void myTest(){
+        
+    }
+>>>>>>> parent of 21d137c (Update Result.java)
 
     void LawBing(){
         System.out.println("See you guys in Starlight Fantasy this Saturday!!!");
