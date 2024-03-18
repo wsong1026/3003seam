@@ -36,7 +36,7 @@ public class Result {
 
     int countAll() { return 0; }
 
-    void rinisha(){
+    void rinisha1(){
         System.out.println("Testing");
     }
 
