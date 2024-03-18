@@ -34,10 +34,18 @@ public class Result {
         System.out.println("Testing");
     }
 
+
     void toiletFunction(){
         System.out.println("Poop");
     }
 
     int countAll() { return 0; }
+    void myTest(){
+        System.out.println("Don't Test")
+    }
+
+    void makingCake(){
+        System.out.println("^^^^^^6^^^^^^")
+    }
 
 }
