@@ -38,4 +38,8 @@ public class Result {
         System.out.println("Don't Test")
     }
 
+    void makingCake(){
+        System.out.println("^^^^^^6^^^^^^")
+    }
+
 }
