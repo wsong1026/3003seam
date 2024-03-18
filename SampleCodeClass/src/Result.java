@@ -38,4 +38,8 @@ public class Result {
         System.out.println("Testing");
     }
 
+    void sc(){
+        System.out.println("Testing");
+    }
+
 }
