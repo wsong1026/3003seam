@@ -38,7 +38,7 @@ public class Result {
         System.out.println("Testing");
     }
 
-    void test(){
+    void rinisha(){
         System.out.println("Testing");
     }
 
