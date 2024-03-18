@@ -36,7 +36,7 @@ public class Result {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-    void kxTest();
+    void kxiangTest();
 =======
     void myTest(){
         System.out.println("Testing");
