@@ -34,6 +34,10 @@ public class Result {
         System.out.println("Testing");
     }
 
+    void toiletFunction(){
+        System.out.println("Poop");
+    }
+
     int countAll() { return 0; }
 
 }
