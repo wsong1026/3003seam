@@ -34,4 +34,6 @@ public class Result {
         System.out.println("Testing");
     }
 
+    int countAll() { return 0; }
+
 }
