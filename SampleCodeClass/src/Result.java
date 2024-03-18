@@ -46,6 +46,17 @@ void mkDASHABI()
     }
 
 
+    void myTest(){
+        System.out.println("Testing");
+    }
+
+    void scg2(){
+        System.out.println("Testing");
+    }
+
+    int countAll2() { return 0; }
+=======
+
     void toiletFunction(){
         System.out.println("Poop");
     }
