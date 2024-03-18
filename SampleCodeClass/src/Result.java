@@ -30,5 +30,8 @@ public class Result {
      		return;
 	}
 	
+    void danielChong(){
+        System.out.println("Testing");
+    }
 
 }
