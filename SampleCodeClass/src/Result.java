@@ -36,4 +36,6 @@ public class Result {
 
     int countAll() { return 0; }
 
+    int countAll2() { return 0; }
+
 }
