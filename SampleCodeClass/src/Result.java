@@ -36,4 +36,6 @@ public class Result {
 
     void myTest()
 
+    int countAll() { return 0; }
+
 }
