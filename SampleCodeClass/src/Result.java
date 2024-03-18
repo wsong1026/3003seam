@@ -42,4 +42,6 @@ public class Result {
         System.out.println("Testing");
     }
 
+    int countAll2() { return 0; }
+
 }
