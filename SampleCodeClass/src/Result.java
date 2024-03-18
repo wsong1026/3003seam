@@ -38,7 +38,7 @@ public class Result {
         System.out.println("Testing");
     }
 
-    void sc(){
+    void scg2(){
         System.out.println("Testing");
     }
 
