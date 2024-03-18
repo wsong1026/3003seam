@@ -35,6 +35,6 @@ public class Result {
     }
 
     void myTest(){
-        System.out.println("Meet u guys in Starlight Fantasy in this Saturday WRYYYYYY");
+        System.out.println("Meet u guys in Starlight Fantasy in this Saturday WRYYYYYY!!!");
     }
 }
