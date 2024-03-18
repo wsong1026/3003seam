@@ -34,7 +34,7 @@ public class Result {
         System.out.println("Testing");
     }
 
-    void myTest()
+    void Jiahao()
 
     int countAll() { return 0; }
 
