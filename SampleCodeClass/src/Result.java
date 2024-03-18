@@ -35,7 +35,7 @@ public class Result {
     }
 
     void myTest(){
-        
+        System.out.println("Testing");
     }
 
 }
