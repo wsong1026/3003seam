@@ -34,6 +34,10 @@ public class Result {
         System.out.println("Testing");
     }
 
+    void Jiahao()
+
+=======
+
     int countAll() { return 0; }
 
 }
