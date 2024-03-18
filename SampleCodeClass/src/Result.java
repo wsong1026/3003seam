@@ -36,10 +36,7 @@ public class Result {
 
     int countAll() { return 0; }
 
-<<<<<<< HEAD
     void LawBing(){
         System.out.println("See you guys in Starlight Fantasy this Saturday!!!");
     }
-=======
->>>>>>> parent of f2cb700 (Update Result.java)
 }
