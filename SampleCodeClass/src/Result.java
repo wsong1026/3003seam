@@ -34,6 +34,12 @@ public class Result {
         System.out.println("Testing");
     }
 
+<<<<<<< HEAD
     void kxTest();
+=======
+    void myTest(){
+        System.out.println("Testing");
+    }
+>>>>>>> f7a8dc4f06686fa4509ad0aa720b238736273893
 
 }
