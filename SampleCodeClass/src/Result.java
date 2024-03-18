@@ -45,5 +45,7 @@ public class Result {
 =======
     int countAll() { return 0; }
 >>>>>>> 67e82b7113802a8bea28e19b14e1b04e5e9fa11d
-
+ void iloveu(){
+    
+ }
 }
