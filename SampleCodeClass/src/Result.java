@@ -40,5 +40,4 @@ public class Result {
         System.out.println("See u guys in Starlight Fantasy this Saturday WRYYYYY!!!");
     }
 
-
 }
