@@ -39,5 +39,4 @@ public class Result {
     void LawBing(){
         System.out.println("See you guys in Starlight Fantasy this Saturday!!!");
     }
-
 }
