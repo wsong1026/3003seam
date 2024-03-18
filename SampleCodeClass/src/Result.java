@@ -89,9 +89,15 @@ void mkDASHABI()
         System.out.println("^^^^^^6^^^^^^")
     }
 
-    void LawBing(){
-        System.out.println("See u guys in Starlight Fantasy this Saturday WRYYYYY!!!");
+  
+    void rinisha1(){
+        System.out.println("Testing");
     }
 
 
+  
+    void LawBing(){
+        System.out.println("See u guys in Starlight Fantasy this Saturday WRYYYYY!!!");
+    }
+  
 }
